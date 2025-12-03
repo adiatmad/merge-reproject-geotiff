@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-A powerful, user-friendly Python tool for merging and reprojecting GeoTIFF files with live logging and interactive selection based on (this scripts)[https://gist.github.com/SColchester/525e24dac4e67c3bd282b4c4ebbcddc1]
+A powerful, user-friendly Python tool for merging and reprojecting GeoTIFF files with live logging and interactive selection based on this scripts : https://gist.github.com/SColchester/525e24dac4e67c3bd282b4c4ebbcddc1
 
 ## ✨ Features
 
